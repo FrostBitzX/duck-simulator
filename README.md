@@ -1,2 +1,2 @@
 ## Duck Simulator
-### Using Adapter, Decorator, Abstract, Factory, Composite Pattern
+### Practice using Adapter, Decorator, Abstract, Factory, Composite Pattern
